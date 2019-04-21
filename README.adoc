@@ -2,7 +2,7 @@
 
 Analysis, discussions and simple summaries of key facts about Julian Assange.
 
-Please submit Issues for any facts (in favor or against Assange) that you think we have overlooked.
+Please submit https://github.com/PoLiX-pl/Assange/issues[Issues] for any facts (in favor or against Assange) that you think we have overlooked.
 
 == Trial about rape
 	1. JA a toujours voulu etre interrogé sur les allegations
