@@ -1,0 +1,34 @@
+= Assange
+
+Analysis, discussions and simple summaries of key facts about Julian Assange.
+
+Please submit Issues for any facts (in favor or against Assange) that you think we have overlooked.
+
+== Trial about rape
+	1. JA a toujours voulu etre interrogé sur les allegations
+	2. Il a toujours été sous la menace d'etre extradé au US
+	3. les autorités US, UK et Sweden n'ont jamais accepté de l'interroger avec garantie de non extradition
+
+Pour 1:
+Decision de l'UN:
+
+"the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial."
+
+https://justice4assange.com/UN-Working-Group-Decision.html
+
+Pour 2
+voir: https://defend.wikileaks.org/threats-to-wikileaks/
+section "Grand Jury investigation into WikiLeaks since 2010"
+
+depuis 2011 un Grand Jury cherche a inculper Assange: https://www.salon.com/2011/04/27/wikileaks_26/
+c'est ce meme Grand Jury qui demande son extradition maintenant: https://www.justice.gov/opa/pr/wikileaks-founder-charged-computer-hacking-conspiracy
+
+Pour 3, "[Ecuador’s foreign minister] Mr. Patiño said his government had made its decision after the authorities in Britain, Sweden and the United States refused to give guarantees that if Mr. Assange were extradited to Sweden, he would not then be sent on to the United States to face other charges."
+
+https://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html
+
+Également pour 3. "Sweden closed the preliminary investigation against Julian Assange in May 2017.
+The Swedish prosecutor had been compelled to travel to London to take Mr. Assange’s testimony six months prior."
+
+source: https://justice4assange.com/Assange-Testimony.html, contient les sources et le temoignage de JA par la Suede.
+
