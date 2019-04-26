@@ -1,34 +1,36 @@
 = Assange
 
-Analysis, discussions and simple summaries of key facts about Julian Assange.
+Analysis, discussions and simple summaries of key facts in defense of Julian Assange, with an emphasis on credible source.
 
 Please submit https://github.com/PoLiX-pl/Assange/issues[Issues] for any facts (in favor or against Assange) that you think we have overlooked.
 
-== Trial about rape
-	1. JA a toujours voulu etre interrogé sur les allegations
+== Allegations of sexual misconduct
+	1. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention]
 	2. Il a toujours été sous la menace d'etre extradé au US
 	3. les autorités US, UK et Sweden n'ont jamais accepté de l'interroger avec garantie de non extradition
 
-Pour 1:
-Decision de l'UN:
+=== 1
+“the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial.”
 
-"the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial."
+https://www.ohchr.org/_layouts/15/WopiFrame.aspx?sourcedoc=/Documents/Issues/Detention/A.HRC.WGAD.2015.docx&action=default&DefaultItemOpen=1[Source]: Opinions adopted by the Working Group on Arbitrary Detention at its seventy-fourth session, 30 November – 4 December 2015
 
-https://justice4assange.com/UN-Working-Group-Decision.html
+=== 2
+“a Grand Jury has been convened to criminally investigate WikiLeaks and Julian Assange and determine whether an indictment against them is warranted. (…) the Grand Jury is investigating possible violations of the Espionage Act (18 U.S.C. 793), a draconian 1917 law under which no non-government-employee has ever been convicted for disclosing classified information.  The most strident anti-WikiLeaks politicians -- such as Dianne Feinstein and Newt Gingrich -- have called for the prosecution of the whistle-blowing group under this law, and it appears that the Obama DOJ is at least strongly considering that possibility.” Glenn Greenwald, https://www.salon.com/2011/04/27/wikileaks_26/[_FBI serves Grand Jury subpoena likely relating to WikiLeaks_], Salon, 27 April 2011
 
-Pour 2
-voir: https://defend.wikileaks.org/threats-to-wikileaks/
-section "Grand Jury investigation into WikiLeaks since 2010"
-
-depuis 2011 un Grand Jury cherche a inculper Assange: https://www.salon.com/2011/04/27/wikileaks_26/
 c'est ce meme Grand Jury qui demande son extradition maintenant: https://www.justice.gov/opa/pr/wikileaks-founder-charged-computer-hacking-conspiracy
 
-Pour 3, "[Ecuador’s foreign minister] Mr. Patiño said his government had made its decision after the authorities in Britain, Sweden and the United States refused to give guarantees that if Mr. Assange were extradited to Sweden, he would not then be sent on to the United States to face other charges."
+TODO consider supplementary relevant information from https://defend.wikileaks.org/threats-to-wikileaks/#grand-jury if any
 
-https://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html
+=== 3 
+“Does the US want Assange to be extradited? Almost certainly, but the Home Office never confirms whether an extradition request has been made or received until the person in question has been arrested. Last month, the US attorney general, Jeff Sessions, said the arrest of Assange was a “priority” after the CIA director, Mike Pompeo, described WikiLeaks as a “hostile intelligence service” and a threat to US national security.” https://www.theguardian.com/media/2017/may/19/what-has-happened-to-julian-assange-key-questions-answered[Can Julian Assange now walk free? What happens next - Q&A], The Guardian, 19 May 2017
 
-Également pour 3. "Sweden closed the preliminary investigation against Julian Assange in May 2017.
-The Swedish prosecutor had been compelled to travel to London to take Mr. Assange’s testimony six months prior."
+TODO:
+
+“[Ecuador’s foreign minister] Mr. Patiño said his government had made its decision after the authorities in Britain, Sweden and the United States refused to give guarantees that if Mr. Assange were extradited to Sweden, he would not then be sent on to the United States to face other charges.” https://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html[Ecuador Grants Asylum to Assange, Defying Britain], The New York Times, 16 August 2012
+
+“Sweden closed the preliminary investigation against Julian Assange in May 2017.
+The Swedish prosecutor had been compelled to travel to London to take Mr. Assange’s testimony six months prior.”
 
 source: https://justice4assange.com/Assange-Testimony.html, contient les sources et le temoignage de JA par la Suede.
+
 
